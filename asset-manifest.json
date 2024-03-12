@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/registroteca-demo/static/css/main.3d48420a.css",
-    "main.js": "/registroteca-demo/static/js/main.8695da9c.js",
+    "main.css": "/registroteca-demo/static/css/main.a9c80dfd.css",
+    "main.js": "/registroteca-demo/static/js/main.782d5ce7.js",
     "static/js/787.2b082d65.chunk.js": "/registroteca-demo/static/js/787.2b082d65.chunk.js",
     "static/media/BG_HEADER01_home-png": "/registroteca-demo/static/media/BG_HEADER01_home-a14adfde3eff7882bc9a383115eb0ee49f2c6d52c2f1923b684f266a3c177aed.21111bb431588e310788.png",
     "index.html": "/registroteca-demo/index.html",
-    "main.3d48420a.css.map": "/registroteca-demo/static/css/main.3d48420a.css.map",
-    "main.8695da9c.js.map": "/registroteca-demo/static/js/main.8695da9c.js.map",
+    "main.a9c80dfd.css.map": "/registroteca-demo/static/css/main.a9c80dfd.css.map",
+    "main.782d5ce7.js.map": "/registroteca-demo/static/js/main.782d5ce7.js.map",
     "787.2b082d65.chunk.js.map": "/registroteca-demo/static/js/787.2b082d65.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3d48420a.css",
-    "static/js/main.8695da9c.js"
+    "static/css/main.a9c80dfd.css",
+    "static/js/main.782d5ce7.js"
   ]
 }
